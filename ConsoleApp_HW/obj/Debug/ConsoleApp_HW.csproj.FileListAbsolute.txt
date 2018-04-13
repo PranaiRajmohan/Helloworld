@@ -1,0 +1,7 @@
+C:\Users\09226274\Workspace\ConsoleApp_HW\ConsoleApp_HW\bin\Debug\ConsoleApp_HW.exe.config
+C:\Users\09226274\Workspace\ConsoleApp_HW\ConsoleApp_HW\bin\Debug\ConsoleApp_HW.exe
+C:\Users\09226274\Workspace\ConsoleApp_HW\ConsoleApp_HW\bin\Debug\ConsoleApp_HW.pdb
+C:\Users\09226274\Workspace\ConsoleApp_HW\ConsoleApp_HW\obj\Debug\ConsoleApp_HW.csprojResolveAssemblyReference.cache
+C:\Users\09226274\Workspace\ConsoleApp_HW\ConsoleApp_HW\obj\Debug\ConsoleApp_HW.csproj.CoreCompileInputs.cache
+C:\Users\09226274\Workspace\ConsoleApp_HW\ConsoleApp_HW\obj\Debug\ConsoleApp_HW.exe
+C:\Users\09226274\Workspace\ConsoleApp_HW\ConsoleApp_HW\obj\Debug\ConsoleApp_HW.pdb
